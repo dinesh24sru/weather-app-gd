@@ -1,0 +1,23 @@
+
+node_modules
+dist
+.env
+coverage
+.vscode
+/.idea
+npm-debug.log
+# Node
+node_modules/
+dist/
+.env
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode
+.vscode/
+
+# Docker
+docker-compose.override.yml
